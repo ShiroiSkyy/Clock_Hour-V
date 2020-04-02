@@ -6,12 +6,13 @@
 - 演示地址： https://time.hourv.com/
 - Wallpaper Engine：https://steamcommunity.com/sharedfiles/filedetails/?id=1891446102
 
-## Clock_Hour-V  This is a dark clock
-- you can choose from three modes
-- 1 default state:Luminous breathing effect, the pointer is fixed in v-shape.
-- 2 clock mode:Luminous breathing effect, pointer with rotating browser time.
-- 3 simplified mode:Remove breathing effect and text, pointer with rotating browser time.
-- Demo: https://time.hourv.com/
+## Clock_Hour-V This is a dark clock.
+- Translated from [Deepl](https://www.deepl.com/translator/).
+- There are three modes to choose from
+- 1 Default state: light breathing effect, pointer is fixed in V shape.
+- 2 Clock mode: light-up breathing effect, hands rotate with browser time.
+- 3 Simplicity mode: remove breathing effect, text, pointer rotates with browser time.
+- Presentation address: https://time.hourv.com/
 - Wallpaper Engine: https://steamcommunity.com/sharedfiles/filedetails/?id=1891446102
 
 ## 预览图 Previews
